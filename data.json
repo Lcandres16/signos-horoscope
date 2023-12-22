@@ -1,0 +1,14 @@
+
+[
+    {
+      "name": "Aries",
+      "description": "Lorem ipsum...",
+      "image": "https://res.cloudinary.com/dbwummpds/image/upload/v1703252862/virgo_avs48x.png"
+    },
+    {
+      "name": "Tauro",
+      "description": "Lorem ipsum...",
+      "image": "url_de_la_imagen_tauro.jpg"
+    }
+  ]
+  
